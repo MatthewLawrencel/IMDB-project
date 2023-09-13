@@ -1,10 +1,10 @@
 # IMDB-project
 Here we are going to create a clone of IMDB. Where the Favorites movies can be added and removed by the user. Here we can see that when the film name is typed on the search bar it displays the related movies as well like the google search bar.
 
-<h3>Structure</h3>
+# Structure
 Here the web can be seen search bar, IMDB icon and the solid bar where the favorites can be viewed.
 
-<h3>Function</h3>
+# Function
 <h4>Search Bar</h4>
 Here on typing on the search bar the movies that related  will be be displayed below the search bar.
 <h4>Add Search Bar</h4>
