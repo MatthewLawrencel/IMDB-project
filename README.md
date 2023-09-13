@@ -9,7 +9,7 @@ Here the web can be seen search bar, IMDB icon and the solid bar where the favor
 Here on typing on the search bar the movies that related  will be be displayed below the search bar.
 <h4>Add Search Bar</h4>
 After searching the favorites can be added by clicking on the icon. 
-<h4></h4>Information of Movies</h4>
+</h4>Information of Movies</h4>
 To view the information of the movie we should click on the movie image to display the movie details.
 <h4>To Go Back</h4>
 To go back we should click on the IMDB icon present on the left side of the screen.
