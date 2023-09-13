@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>    
+    </script>
+   
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>IMDB project</title>
+    <link rel="stylesheet" href="imdb.css" />
+    <link rel="stylesheet" href="responsive.css">
+    <script src="https://kit.fontawesome.com/f8b6f8d129.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <div class="background">
+    <div id="navbar">
+        <a href="imdb.html">
+            <div class="top-logo"><i class="fa-brands fa-imdb"></i>
+                
+            </div>
+        </a>
+       
+
+        <div class="side-drawer">
+
+            <div id="toggle-sidebar">
+                <i class="fa-solid fa-bars"></i>
+                <span id="total-counter"></span>
+            </div>
+        </div>
+     </div>
+
+    <div id="main">
+
+        <div id="sidebar">
+            <div class="top_gap"></div>
+            <hr />
+            <div class="title small">
+                Favourites
+            </div>
+            <hr />
+            <div id="fav">
+                
+            </div>
+
+        </div>
+        <div id="flex-box">
+       
+
+            <div class="container">
+
+                <div class="header">
+                    <div class="title">
+                        Select The Favorite Movies, Which Are Watched By You..
+                    </div>
+                </div>
+                <div class="" id="search-bar">
+                    
+                    <div class="new-search-input">
+                        <form onkeyup="showMovieList()">
+                            <input id="search-input" type="text" placeholder="Search Movies Here....." />
+                            
+                        </form>
+                        <div class="icon">
+                            <i class="fa-solid fa-search "></i>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+           
+
+            <div id="cards-holder" class="">
+
+            </div>
+
+        </div>
+
+
+    </div>
+    
+</div>
+
+    <script src="imdb.js"></script>
+</body>
+
+</html>
