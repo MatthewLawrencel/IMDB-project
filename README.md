@@ -16,3 +16,7 @@ To go back we should click on the IMDB icon present on the left side of the scre
 <h4>Check Favorite Movies</h4>
 To check favorite movies which are added can be seen by clicking on the solid bar present at the right of the screen.
 
+# Hosted-Link
+
+https://matthewlawrencel.github.io/IMDB-project/
+
